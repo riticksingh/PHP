@@ -1,4 +1,5 @@
-### PHP1. Create a PHP page using functions for comparing three integers and print the largest number.
+### PHP
+1. Create a PHP page using functions for comparing three integers and print the largest number.
 2. Write a function to calculate the factorial of a number (non-negative integer). The function accept the number as an argument.
 3. WAP to check whether the given number is prime or not.
 4. Create a PHP page which accepts string from user. After submission that page displays the reverse of provided string.
